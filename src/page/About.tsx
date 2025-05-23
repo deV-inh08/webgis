@@ -63,7 +63,7 @@ const About = () => {
                         </Avatar>
                         <div>
                             <p className='font-bold'>Nguyễn Quỳnh Nhi</p>
-                            <p className='text-blue-400 font-bold'>22166103</p>
+                            <p className='text-blue-400 font-bold'>22166065</p>
                         </div>
                     </li>
                     <li className='flex gap-3 items-center'>
